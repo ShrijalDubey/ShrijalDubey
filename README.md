@@ -4,7 +4,8 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>Databases & Tools</th>
+    <th>Databases</th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -14,7 +15,10 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,git,github,vercel,netlify,supabase,npm,postman" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,postman" />
     </td>
   </tr>
 </table>
