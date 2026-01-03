@@ -1,4 +1,4 @@
-<h2>🧑‍💻 Skills</h2>
+<h1>🧑‍💻 TechStack:</h1>
 
 <table>
   <tr>
@@ -24,7 +24,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ShrijalDubey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrijalDubey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrijal-dubey-1591a537b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijaldubey36@gmail.com) 
 
 
