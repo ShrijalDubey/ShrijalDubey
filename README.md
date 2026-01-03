@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Shrijal Dubey 👋<br><br>🎓 Engineering Student | 💻 Aspiring Full-Stack Developer  <br><br>I am an engineering student focused on building a strong foundation in **software development, web technologies, and problem solving**. I enjoy learning by building, experimenting with new tools, and continuously improving my technical skills.<br><br>---<br><br>##
+# Hi, I'm Shrijal Dubey 👋<br><br>🎓 Engineering Student | 💻 Aspiring Full-Stack Developer  <br><br>I am an engineering student focused on building a strong foundation in **software development, web technologies, and problem solving**. I enjoy learning by building, experimenting with new tools, and continuously improving my technical skills.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrijal-dubey-1591a537b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijaldubey36@gmail.com) 
