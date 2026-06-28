@@ -16,33 +16,6 @@ I am a passionate **Full-Stack Developer** and **AI Builder** focused on buildin
 - 💬 Ask me about **React**, **FastAPI**, **Node.js/Express**, **Docker**, or how to structure full-stack projects.
 - ⚡ Fun fact: I love building tools that automate my own workflow (saving time for more building!).
 
----
-
-## 🛠️ Tech Stack
-<table>
-  <tr>
-    <th align="left">Frontend</th>
-    <th align="left">Backend</th>
-    <th align="left">Databases</th>
-    <th align="left">Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,bootstrap" alt="Frontend Stack" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Stack" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" alt="Database Stack" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,postman" alt="Tools Stack" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚀 Featured Projects
 
