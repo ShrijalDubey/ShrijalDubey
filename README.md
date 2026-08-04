@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a first-year **CSE student** learning DevOps, AI, and full-stack development by building things — developer tools, campus platforms, and ML side projects. I love automation, containerization, and shipping polished, real-world software. My work spans building AI-powered developer tools, contributing to open source projects, and exploring machine learning fundamentals alongside my core interests in full-stack engineering and competitive programming.
+I'm a first-year **CSE student** learning DevOps, AI, and full-stack development by building things — developer tools, campus platforms, and ML side projects. My work spans building AI-powered developer tools, contributing to open source projects, and exploring machine learning fundamentals alongside my core interests in full-stack engineering and programming.
 
 ---
 
