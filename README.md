@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Building software, learning systems, and occasionally breaking production 😭
+### Building software, learning systems
 
 <a href="https://github.com/ShrijalDubey">
   <img src="https://komarev.com/ghpvc/?username=ShrijalDubey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
