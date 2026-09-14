@@ -122,11 +122,6 @@ An AI-driven agriculture system built for **Smart India Hackathon 2026.**
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShrijalDubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrijalDubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=ShrijalDubey&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
